@@ -1,0 +1,11 @@
+{
+    "jsdocs_extra_tags":[
+        "******************************************************************",
+        "@Function: string",
+        "@Description: string",
+        "@Author 苏启彬",
+        "@DateTime {{date}}",
+        "@example: string"
+    ],
+    "jsdocs_function_description": false
+  }

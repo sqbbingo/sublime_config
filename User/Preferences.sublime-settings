@@ -1,0 +1,14 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"mdpopups.default_formatting": false,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

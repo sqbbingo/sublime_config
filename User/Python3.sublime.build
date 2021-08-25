@@ -1,0 +1,8 @@
+{
+    "cmd":["C:\\Users\\jh\\Anaconda3\\python.exe", "-u", "$file"],
+    "path":"F:\\software\\Python",   // 注意：路径根据自己的python安装路径而定 
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "encoding": "utf-8" ,
+    "env": {"PYTHONIOENCODING": "utf8"}//通过这句，使编码一致，都是utf8
+}

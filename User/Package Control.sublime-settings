@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"Alignment",
+		"BracketHighlighter",
+		"Chinese-English Bilingual Dictionary",
+		"ChineseLocalizations",
+		"Color Highlight",
+		"ConvertChineseCharacters",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"FileHeader",
+		"HexViewer",
+		"Jimbly's Clipboard History",
+		"Package Control",
+		"Package Reloader",
+		"PackageResourceViewer",
+		"SublimeAStyleFormatter",
+		"Sublimerge 3",
+		"Terminal",
+		"WordHighlight"
+	]
+}
